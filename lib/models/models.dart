@@ -1,0 +1,20 @@
+// Export all models.
+export 'base_model.dart';
+export 'user_model.dart';
+export 'message_model.dart';
+export 'drawer_items_model.dart';
+export 'application_model.dart';
+export 'post_model.dart';
+export 'profile_model.dart';
+export 'advice_model.dart';
+export 'event_model.dart';
+export 'franchise_model.dart';
+export 'feed_model.dart';
+export 'video_model.dart';
+export 'wordpress_model.dart';
+export 'wp_data.dart';
+export 'job_model.dart';
+export 'career_model.dart';
+export 'role_model.dart';
+export 'vacancy_model.dart';
+export 'community_model.dart';
